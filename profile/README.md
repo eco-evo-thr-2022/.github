@@ -40,7 +40,7 @@ In this course we will engage with the social context of ecological and evolutio
 
 | Assignment                                                                                                       |                                       | Percent of grade                           |
 | :--------------------------------------------------------------------------------------------------------------- |                                   --: | -----------------------------------------: |
-| <td colspan=2>triple  <td colspan=1>10 |
+<td colspan=2>two  <td colspan=1>10 |
 | Watching lectures and submitting questions/discussion ideas prior to class meetings                              |                                       | 20%                                        |
 | Class attendence and participation (multiple modes of participation welcome, please talk with Andy if concerned) |                                       | 20%                                        |
 | Group project with component parts:                                                                              |                                       | 60%                                        |
