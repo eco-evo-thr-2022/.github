@@ -40,7 +40,7 @@ In this course we will engage with the social context of ecological and evolutio
 
 | Assignment                                                                                                       |                                       | Percent of grade                           |
 | :--------------------------------------------------------------------------------------------------------------- |                                   --: | -----------------------------------------: |
-| <td colspan=2>two  | 10 |
+| foo <td colspan=2>two |
 | Watching lectures and submitting questions/discussion ideas prior to class meetings                              |                                       | 20%                                        |
 | Class attendence and participation (multiple modes of participation welcome, please talk with Andy if concerned) |                                       | 20%                                        |
 | Group project with component parts:                                                                              |                                       | 60%                                        |
@@ -71,3 +71,7 @@ In this course we will engage with the social context of ecological and evolutio
 
 Lists of thoughts and questions arising from each video should be submitted as "issues" in the github repo containing that video (don't worry, we'll get there together!). Groups for the “group” projects are encouraged, but a group can be a single individual if that person so wishes. Group assignments will be submitted by pushing them to github (again, we’ll get there together!).
 
+
+| One    | Two | Three | Four    | Five  | Six 
+| -
+| Span <td colspan=3>triple  <td colspan=2>double
