@@ -36,9 +36,10 @@ In this course we will engage with the social context of ecological and evolutio
 | Class attendence and participation (multiple modes of participation welcome, please talk with Andy if concerned) | 20%                                        |
 | Group project with component parts:                                                                              | 60%                                        |
 
+Foo
 
-
-| --:                                        | --:   |
+| | |
+| -----------------------------------------: | ----: |
 | Create groups                              | (5%)  |
 | Project proposal                           | (5%)  |
 | Project roles and responsibilities drafted | (5%)  |
@@ -47,6 +48,8 @@ In this course we will engage with the social context of ecological and evolutio
 | Project analysis                           | (10%) |
 | Project write-up                           | (10%) |
 | Project presentation                       | (10%) |
+
+
 
 
 
