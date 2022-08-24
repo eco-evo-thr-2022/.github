@@ -26,6 +26,21 @@ The University of Maine recognizes that it is located on Marsh Island in the hom
 
 In this course we will engage with the social context of ecological and evolutionary theory, including colonialism and scientific racism. The University of Maine, to backup its acknowledgement of occupation of stolen land, has entered into a Memorandum of Understanding with the Penobscot Nation.  This MoU will hopefully soon include stipulations about the ethical management of Indigenous data modeled after efforts by Maine-eDNA.
 
+
+| Watching lectures and submitting questions/discussion ideas prior to class meetings                              | 20%                                        |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Class attendence and participation (multiple modes of participation welcome, please talk with Andy if concerned) | 20%                                        |
+| Group project with component parts:                                                                              | 60%                                        |
+|                                                                                                                  | Create groups                              | (5%) |
+|                                                                                                                  | Project proposal                           | (5%) |
+|                                                                                                                  | Project roles and responsibilities drafted | (5%) |
+|                                                                                                                  | Project github repo created                | (5%) |
+|                                                                                                                  | Project markdown doc with outline          | (10%) |
+|                                                                                                                  | Project analysis                           | (10%) |
+|                                                                                                                  | Project write-up                           | (10%) |
+|                                                                                                                  | Project presentation                       | (10%) |
+
+
 <!--
 
 **Here are some ideas to get you started:**
