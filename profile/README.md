@@ -30,7 +30,8 @@ In this course we will engage with the social context of ecological and evolutio
 ### Assessment and Assignments
 
 
-| Watching lectures and submitting questions/discussion ideas prior to class meetings                              | 20%                                        |
+| Assignment                              | Percent of grade                                        |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | Class attendence and participation (multiple modes of participation welcome, please talk with Andy if concerned) | 20%                                        |
 | Group project with component parts:                                                                              | 60%                                        |
 |                                                                                                                  | Create groups                              | (5%) |
@@ -41,6 +42,8 @@ In this course we will engage with the social context of ecological and evolutio
 |                                                                                                                  | Project analysis                           | (10%) |
 |                                                                                                                  | Project write-up                           | (10%) |
 |                                                                                                                  | Project presentation                       | (10%) |
+
+
 
 
 Lists of thoughts and questions arising from each video should be submitted as "issues" in the github repo containing that video (don't worry, we'll get there together!). Groups for the “group” projects are encouraged, but a group can be a single individual if that person so wishes. Group assignments will be submitted by pushing them to github (again, we’ll get there together!).
