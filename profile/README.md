@@ -30,14 +30,6 @@ In this course we will engage with the social context of ecological and evolutio
 ### Assessment and Assignments
 
 
-
-
-
-
-
-
-
-
 | Assignment                                                                                                       |                                       | Percent of grade                           |
 | :--------------------------------------------------------------------------------------------------------------- |                                   --: | -----------------------------------------: |
 | Watching lectures and submitting questions/discussion ideas prior to class meetings                              |                                       | 20%                                        |
@@ -53,20 +45,60 @@ In this course we will engage with the social context of ecological and evolutio
 | | *Project presentation*                       | *(10%)* |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Lists of thoughts and questions arising from each video should be submitted as "issues" in the github repo containing that video (don't worry, we'll get there together!). Groups for the “group” projects are encouraged, but a group can be a single individual if that person so wishes. Group assignments will be submitted by pushing them to github (again, we’ll get there together!).
+
+
+
+### Schedule 
+
+| Day | Date       | Videos to watch before class                             | In class activity                                        | Location    | Assignments                        |
+| --- | ---------- | -------------------------------------------------------- | -------------------------------------------------------- | ----------- | ---------------------------------- |
+| M   | 8/29/2022  |                                                          | Getting started                                          | Ferland 337 |                                    |
+| W   | 8/31/2022  |                                                          | GitHub Orientation                                       | Ferland 337 | List of thoughts and questions     |
+| F   | 9/2/2022   |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 9/5/2022   |                                                          | No class - Labor Day                                     |             |                                    |
+| W   | 9/7/2022   | What is Biodiversity?                                    | What is Biodiversity?                                    | Ferland 337 | List of thoughts and questions     |
+| F   | 9/9/2022   |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 9/12/2022  | Why Theory?                                              | Why Theory?                                              | Ferland 337 | List of thoughts and questions     |
+| W   | 9/14/2022  | Equilibrium Theory of Island Biogeography                | Equilibrium Theory of Island Biogeography                | Ferland 337 | List of thoughts and questions     |
+| F   | 9/16/2022  |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 9/19/2022  | The Neutral Theory of Biodiversity                       | The Neutral Theory of Biodiversity                       | Ferland 337 | List of thoughts and questions     |
+| W   | 9/21/2022  | Simple Metrics of Biodiversity                           | Simple Metrics of Biodiversity                           | Ferland 337 | List of thoughts and questions     |
+| F   | 9/23/2022  |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 9/26/2022  | Simulating the Neutral Theory of Biodiversity            | Simulating the Neutral Theory of Biodiversity            | Ferland 337 | List of thoughts and questions     |
+| W   | 9/28/2022  | The Lotka-Volterra Model                                 | The Lotka-Volterra Model                                 | Ferland 337 | List of thoughts and questions     |
+| F   | 9/30/2022  |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 10/3/2022  | Modern Coexistence Theory                                | Modern Coexistence Theory                                | Ferland 337 | List of thoughts and questions     |
+| W   | 10/5/2022  | The Historical Context of Competition                    | The Historical Context of Competition                    | Ferland 337 | List of thoughts and questions     |
+| F   | 10/7/2022  |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 10/10/2022 |                                                          | No class - Indigenous Peoples Day                        |             |                                    |
+| W   | 10/12/2022 | Model Fitting: Likelihood Methods                        | Model Fitting: Likelihood Methods                        | Ferland 337 | List of thoughts and questions     |
+| F   | 10/14/2022 |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 10/17/2022 | Comparing Neutral and Competition Models with Likelihood | Comparing Neutral and Competition Models with Likelihood | Ferland 337 | List of thoughts and questions     |
+| W   | 10/19/2022 | GitHub and RMarkdown                                     | GitHub and RMarkdown                                     | Ferland 337 | List of thoughts and questions     |
+| F   | 10/21/2022 |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 10/24/2022 | The Importance of Temporal Dynamics                      | The Importance of Temporal Dynamics                      | Ferland 337 | List of thoughts and questions     |
+| W   | 10/26/2022 | Macroevolution                                           | Macroevolution                                           | Ferland 337 | List of thoughts and questions     |
+| F   | 10/28/2022 |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 10/31/2022 | Microevolution                                           | Microevolution                                           | Ferland 337 | List of thoughts and questions     |
+| W   | 11/2/2022  | The Full MESS                                            | The Full MESS                                            | Ferland 337 | List of thoughts and questions     |
+| F   | 11/4/2022  |                                                          | Optional office hour                                     | Murray 303  | Create groups                      |
+| M   | 11/7/2022  | Model Fitting: Likelihood-free Methods                   | Model Fitting: Likelihood-free Methods                   | Ferland 337 | List of thoughts and questions     |
+| W   | 11/9/2022  | Fitting the Full MESS with Likelihood-free Methods       | Fitting the Full MESS with Likelihood-free Methods       | Ferland 337 | List of thoughts and questions     |
+| F   | 11/11/2022 |                                                          | No class - Veterans Day                                  |             | Project proposal                   |
+| M   | 11/14/2022 | Eco-evolutionary feedbacks                               | Eco-evolutionary feedbacks                               | Ferland 337 | List of thoughts and questions     |
+| W   | 11/16/2022 | Applications 1                                           | Applications 1                                           | Ferland 337 | List of thoughts and questions     |
+| F   | 11/18/2022 |                                                          | Optional office hour                                     | Murray 303  | Project roles and responsibilities |
+| M   | 11/21/2022 | Applications 2                                           | Applications 2                                           | Ferland 337 | Project github repo created        |
+| W   | 11/23/2022 |                                                          | No class - Thanksgiving                                  |             |                                    |
+| F   | 11/25/2022 |                                                          | No class - Thanksgiving                                  |             |                                    |
+| M   | 11/28/2022 |                                                          | Work on Projects                                         | Ferland 337 | Project Rmd doc with outline       |
+| W   | 11/30/2022 |                                                          | Work on Projects                                         | Ferland 337 |                                    |
+| F   | 12/2/2022  |                                                          | Optional office hour                                     | Murray 303  |                                    |
+| M   | 12/5/2022  |                                                          | Work on Projects                                         | Ferland 337 | Project analysis                   |
+| W   | 12/7/2022  |                                                          | Work on Projects                                         | Ferland 337 |                                    |
+| F   | 12/9/2022  |                                                          | Optional office hour                                     | Murray 303  | Project write-up                   |
+| M   | 12/12/2022 |                                                          | Final Presentations                                      | Ferland 337 | Project presentation               |
+| W   | 12/14/2022 |                                                          | Final Presentations                                      | Ferland 337 |                                    |
+| F   | 12/16/2022 |                                                          | Final Presentations                                      | Ferland 337 |
 
