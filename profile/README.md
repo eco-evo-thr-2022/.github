@@ -30,12 +30,13 @@ In this course we will engage with the social context of ecological and evolutio
 ### Assessment and Assignments
 
 
-| Assignment                              | Percent of grade                                        |
+| Assignment                                                                                                       | Percent of grade                           |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | Watching lectures and submitting questions/discussion ideas prior to class meetings                              | 20%                                        |
 | Class attendence and participation (multiple modes of participation welcome, please talk with Andy if concerned) | 20%                                        |
 | Group project with component parts:                                                                              | 60%                                        |
-|                                                                                                                  | Create groups                              | (5%) |
+| --:                                                                                                              | :--:                                       |
+| Create groups                                                                                                    | (5%)                                       |
 |                                                                                                                  | Project proposal                           | (5%) |
 |                                                                                                                  | Project roles and responsibilities drafted | (5%) |
 |                                                                                                                  | Project github repo created                | (5%) |
@@ -43,6 +44,10 @@ In this course we will engage with the social context of ecological and evolutio
 |                                                                                                                  | Project analysis                           | (10%) |
 |                                                                                                                  | Project write-up                           | (10%) |
 |                                                                                                                  | Project presentation                       | (10%) |
+
+
+
+
 
 
 
