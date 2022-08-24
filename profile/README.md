@@ -27,8 +27,10 @@ The University of Maine recognizes that it is located on Marsh Island in the hom
 In this course we will engage with the social context of ecological and evolutionary theory, including colonialism and scientific racism. The University of Maine, to backup its acknowledgement of occupation of stolen land, has entered into a Memorandum of Understanding with the Penobscot Nation.  This MoU will hopefully soon include stipulations about the ethical management of Indigenous data modeled after efforts by Maine-eDNA.
 
 
+### Assessment and Assignments
+
+
 | Watching lectures and submitting questions/discussion ideas prior to class meetings                              | 20%                                        |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | Class attendence and participation (multiple modes of participation welcome, please talk with Andy if concerned) | 20%                                        |
 | Group project with component parts:                                                                              | 60%                                        |
 |                                                                                                                  | Create groups                              | (5%) |
@@ -41,13 +43,5 @@ In this course we will engage with the social context of ecological and evolutio
 |                                                                                                                  | Project presentation                       | (10%) |
 
 
-<!--
+Lists of thoughts and questions arising from each video should be submitted as "issues" in the github repo containing that video (don't worry, we'll get there together!). Groups for the “group” projects are encouraged, but a group can be a single individual if that person so wishes. Group assignments will be submitted by pushing them to github (again, we’ll get there together!).
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
