@@ -57,9 +57,9 @@ Lists of thoughts and questions arising from each video should be submitted as "
 | W   | 8/31/2022  |                                                          | GitHub Orientation                                       | Ferland 337 | List of thoughts and questions     |
 | F   | 9/2/2022   |                                                          | *Optional office hour*                                     | Murray 303  |                                    |
 | M   | 9/5/2022   |                                                          | *No class - Labor Day*                                     |             |                                    |
-| W   | 9/7/2022   | [What is Biodiversity?](https://github.com/eco-evo-thr-2022/what-is-biodiversity)  | What is Biodiversity?                                    | Ferland 337 | List of thoughts and questions     |
+| W   | 9/7/2022   | [What is Biodiversity?](https://github.com/eco-evo-thr-2022/what-is-biodiversity)  | What is Biodiversity?                                    | Ferland 337 | [List of thoughts and questions](https://github.com/eco-evo-thr-2022/what-is-biodiversity/issues)     |
 | F   | 9/9/2022   |                                                          | *Optional office hour*                                     | Murray 303  |                                    |
-| M   | 9/12/2022  | [Why Theory?](https://github.com/eco-evo-thr-2022/why-theory)    | Why Theory?                                              | Ferland 337 | List of thoughts and questions     |
+| M   | 9/12/2022  | [Why Theory?](https://github.com/eco-evo-thr-2022/why-theory)    | Why Theory?                                              | Ferland 337 | [List of thoughts and questions](https://github.com/eco-evo-thr-2022/why-theory/issues)     |
 | W   | 9/14/2022  | Equilibrium Theory of Island Biogeography                | Equilibrium Theory of Island Biogeography                | Ferland 337 | List of thoughts and questions     |
 | F   | 9/16/2022  |                                                          | *Optional office hour*                                     | Murray 303  |                                    |
 | M   | 9/19/2022  | The Neutral Theory of Biodiversity                       | The Neutral Theory of Biodiversity                       | Ferland 337 | List of thoughts and questions     |
