@@ -57,7 +57,7 @@ Lists of thoughts and questions arising from each video should be submitted as "
 | Day | Date       | Videos to watch before class                             | In class activity                                        | Location    | Assignments                        |
 | --- | ---------- | -------------------------------------------------------- | -------------------------------------------------------- | ----------- | ---------------------------------- |
 | M   | 8/29/2022  |                                                          | Getting started                                          | Ferland 337 |                                    |
-| W   | 8/31/2022  |                                                          | GitHub Orientation                                       | Ferland 337 | List of thoughts and questions     |
+| W   | 8/31/2022  |                                                          | GitHub Orientation                                       | Ferland 337 | [List of thoughts and questions](https://github.com/eco-evo-thr-2022/00_gitting_started/issues)     |
 | F   | 9/2/2022   |                                                          | *Optional office hour*                                     | Murray 303  |                                    |
 | M   | 9/5/2022   |                                                          | *No class - Labor Day*                                     |             |                                    |
 | W   | 9/7/2022   | [What is Biodiversity?](https://github.com/eco-evo-thr-2022/what-is-biodiversity)  | What is Biodiversity?                                    | Ferland 337 | [List of thoughts and questions](https://github.com/eco-evo-thr-2022/what-is-biodiversity/issues)     |
