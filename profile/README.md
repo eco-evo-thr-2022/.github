@@ -4,7 +4,7 @@ A course offered at the University of Maine, Fall 2022 (Course Number: BIO 597-0
 
 **Instructor:** Andy Rominger
 
-**Guest instructor:** Renata Diaz, Isaac Overcast
+**Guest instructors:** Renata Diaz, Isaac Overcast
 
 
 ### Goals
