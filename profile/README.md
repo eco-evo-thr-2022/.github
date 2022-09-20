@@ -31,7 +31,7 @@ In this course we will engage with the social context of ecological and evolutio
 
 
 <img src="/Open_To_Collaborate.png" align="left" width="200px"/>
-The EcoEvoMatics Lab at the University of Maine is committed to the development of new modes of collaboration, engagement, and partnership with Indigenous peoples for the care and stewardship of past and future heritage collections. What is this notice? Read more [here](https://localcontexts.org/).
+The EcoEvoMatics Lab at the University of Maine is committed to the development of new modes of collaboration, engagement, and partnership with Indigenous peoples for the care and stewardship of past and future heritage collections. 
 
 <br clear="left"/>
 
