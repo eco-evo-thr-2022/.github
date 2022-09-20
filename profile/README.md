@@ -30,6 +30,8 @@ The University of Maine recognizes that it is located on Marsh Island in the hom
 In this course we will engage with the social context of ecological and evolutionary theory, including colonialism and scientific racism. The University of Maine, to backup its acknowledgement of occupation of stolen land, has entered into a Memorandum of Understanding with the Penobscot Nation.  This MoU will hopefully soon include stipulations about the ethical management of Indigenous data modeled after efforts by Maine-eDNA.
 
 
+![otc](Open_To_Collaborate.png)
+
 ### Assessment and Assignments
 
 
