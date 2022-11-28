@@ -100,10 +100,10 @@ Lists of thoughts and questions arising from each video should be submitted as "
 |38 |M   |11/21/22 |                                              |Planning the rest of semester and brainstorm final project ideas |Ferland 236 |One sentence project idea      |
 |39 |W   |11/23/22 |                                              |*No class - Thanksgiving*                                        |            |                               |
 |40 |F   |11/25/22 |                                              |*No class - Thanksgiving*                                        |            |                               |
-|41 |M   |11/28/22 |[The Importance of Temporal Dynamics](https://github.com/eco-evo-thr-2022/13-time)|Work on Projects                                                 |Ferland 236 |Project proposal               |
-|42 |W   |11/30/22 |[The Full MESS](https://github.com/eco-evo-thr-2022/16-mess)|Work on Projects                                                 |Ferland 236 |                               |
+|41 |M   |11/28/22 |   |Work on Projects                                                 |Ferland 236 |Project proposal               |
+|42 |W   |11/30/22 | [The Importance of Temporal Dynamics](https://github.com/eco-evo-thr-2022/13-time) |Work on Projects                                                 |Ferland 236 |                               |
 |43 |F   |12/2/22  |                                              |*Optional office hour*                                           |Murray 303  |                               |
-|44 |M   |12/5/22  |                                              |Work on Projects                                                 |Ferland 236 |                               |
+|44 |M   |12/5/22  | [The Full MESS](https://github.com/eco-evo-thr-2022/16-mess) |Work on Projects                                                 |Ferland 236 |                               |
 |45 |W   |12/7/22  |                                              |Work on Projects                                                 |Ferland 236 |                               |
 |46 |F   |12/9/22  |                                              |*Optional office hour*                                           |Murray 303  |Project write-up               |
 |47 |M   |12/12/22 |                                              |Final Presentations                                              |Ferland 236 |Project presentation           |
